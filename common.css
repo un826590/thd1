@@ -144,12 +144,12 @@ body.pc{
 /*}*/
 /*.pc .bg-left{*/
 /*  left: 0;*/
-/*  background: url("../image/bg_left.png?1") no-repeat left;*/
+/*  background: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/bg_left.png?1") no-repeat left;*/
 /*  z-index: -1;*/
 /*}*/
 /*.pc .bg-right{*/
 /*  right: 0;*/
-/*  background: url("../image/bg_right.png?1") no-repeat right;*/
+/*  background: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/bg_right.png?1") no-repeat right;*/
 /*  z-index: -1;*/
 /*}*/
 /*.pc .bg-fixed{*/
@@ -175,7 +175,7 @@ body.pc{
   margin: 0 auto;
 }
 .main-wrap.pc {
-  /*background: url(../image/pc-bg.png?1) no-repeat;*/
+  /*background: url(https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/pc-bg.png?1) no-repeat;*/
 }
 .pc .main-body{
   background: transparent;
@@ -194,7 +194,7 @@ body.pc{
   left: 0;
   right: 0;
   z-index: 10;
-  background: url("../image/bg-header-block.jpg?1") repeat;
+  background: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/bg-header-block.jpg?1") repeat;
 }
 .header-wrap .header-inner {
   margin: 0 auto;
@@ -220,7 +220,7 @@ body.pc{
   left: -0.1rem;
   width: 2.888rem;
   height: 2rem;
-  background-image: url("../image/decoration-1.png?1");
+  background-image: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/decoration-1.png?1");
   background-size: cover;
   pointer-events: none;
 }
@@ -232,7 +232,7 @@ body.pc{
   left: 4.4rem;
   width: 0.95rem;
   height: 0.7rem;
-  background-image: url("../image/decoration-3.png?1");
+  background-image: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/decoration-3.png?1");
   background-size: cover;
   pointer-events: none;
 }
@@ -244,7 +244,7 @@ body.pc{
   right: -0.2rem;
   width: 0.5rem;
   height: 0.4rem;
-  background-image: url("../image/decoration-2.png?1");
+  background-image: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/decoration-2.png?1");
   background-size: cover;
   pointer-events: none;
 }
@@ -542,7 +542,7 @@ body.pc{
   display: inline-block;
   width: .22rem;
   height: .22rem;
-  background-image: url("../image/icon-title-left-1.png?1");
+  background-image: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/icon-title-left-1.png?1");
   background-size: cover;
 }
 .page-index .list-wrap .item-wrap {
@@ -794,7 +794,7 @@ body.pc{
   display: inline-block;
   width: .32rem;
   height: .32rem;
-  background-image: url("../image/icon-title-left-2.png?1");
+  background-image: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/icon-title-left-2.png?1");
   background-size: cover;
 }
 .detail-info.hot .info-title::before {
@@ -805,7 +805,7 @@ body.pc{
   display: inline-block;
   width: .32rem;
   height: .32rem;
-  background-image: url("../image/icon-title-left-1.png?1");
+  background-image: url("https://cdn.jsdelivr.net/gh/un826590/thd@1.6/image/icon-title-left-1.png?1");
   background-size: cover;
 }
 .detail-info p{
